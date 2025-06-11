@@ -12,7 +12,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: Head-Genve
+  companyName: HeadGeneve
   productName: LostThread
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -140,7 +140,7 @@ PlayerSettings:
   loadStoreDebugModeEnabled: 0
   visionOSBundleVersion: 1.0
   tvOSBundleVersion: 1.0
-  bundleVersion: 0.1
+  bundleVersion: 0.2
   preloadedAssets:
   - {fileID: 0}
   metroInputSource: 0
@@ -164,8 +164,8 @@ PlayerSettings:
   androidMaxAspectRatio: 2.4
   androidMinAspectRatio: 1
   applicationIdentifier:
-    Android: com.unity.template.vr
-    Standalone: com.Head-Genve.LostThread
+    Android: com.HeadGeneve.LostThread
+    Standalone: com.HeadGeneve.LostThread
   buildNumber:
     Standalone: 0
     VisionOS: 0
